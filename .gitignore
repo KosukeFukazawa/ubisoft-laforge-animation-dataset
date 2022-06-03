@@ -4,3 +4,5 @@
 output/
 
 *.pyc
+
+.DS_Store
